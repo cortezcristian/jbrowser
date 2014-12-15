@@ -1,0 +1,31 @@
+{
+  "name": "jbrowser",
+  "version": "0.0.0",
+  "homepage": "https://github.com/cortezcristian/jbrowser",
+  "authors": [
+    "Cristian Cortez <cortez.cristian@gmail.com>"
+  ],
+  "description": "jBrowser - Embeddable Browser Front End mock for jQuery",
+  "main": "src/jquery.jbrowser.js",
+  "moduleType": [
+    "globals"
+  ],
+  "dependencies": {
+        "jquery": ">=1.4"
+  },
+  "keywords": [
+    "jbrowser",
+    "jquery",
+    "browser",
+    "emulation",
+    "mock"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
