@@ -1,5 +1,5 @@
 /**
-* jBrowser - Browser Emulator for jQuery  
+* jBrowser - Embeddable Browser Front End mock for jQuery 
 * Released under GPL v3 License
 * @author Cristian Ariel Cortez  
 * @copyright (c) 2011 - 2013 Cristian Ariel Cortez - cortez[dot]cristian[at]gmail[dot]com - http://cortezcristian.com.ar/
